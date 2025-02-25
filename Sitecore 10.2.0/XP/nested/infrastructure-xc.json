@@ -144,7 +144,7 @@
             "SkuCapacity": 1
           },
           "xcBasicHostingPlanIsolated": {
-            "SkuName": "I1",
+            "SkuName": "I1v2",
             "SkuCapacity": 1
           },
           "xcResourceIntensiveHostingPlan": {
@@ -152,7 +152,7 @@
             "SkuCapacity": 1
           },
           "xcResourceIntensiveHostingPlanIsolated": {
-            "SkuName": "I1",
+            "SkuName": "I1v2",
             "SkuCapacity": 1
           },
           "refDataSqlDatabase": {
@@ -182,7 +182,7 @@
             "SkuCapacity": 1
           },
           "xcBasicHostingPlanIsolated": {
-            "SkuName": "I1",
+            "SkuName": "I1v2",
             "SkuCapacity": 1
           },
           "xcResourceIntensiveHostingPlan": {
@@ -190,7 +190,7 @@
             "SkuCapacity": 1
           },
           "xcResourceIntensiveHostingPlanIsolated": {
-            "SkuName": "I1",
+            "SkuName": "I1v2",
             "SkuCapacity": 1
           },
           "refDataSqlDatabase": {
@@ -220,7 +220,7 @@
             "SkuCapacity": 1
           },
           "xcBasicHostingPlanIsolated": {
-            "SkuName": "I1",
+            "SkuName": "I1v2",
             "SkuCapacity": 1
           },
           "xcResourceIntensiveHostingPlan": {
@@ -228,7 +228,7 @@
             "SkuCapacity": 1
           },
           "xcResourceIntensiveHostingPlanIsolated": {
-            "SkuName": "I2",
+            "SkuName": "I2v2",
             "SkuCapacity": 2
           },
           "refDataSqlDatabase": {
@@ -258,7 +258,7 @@
             "SkuCapacity": 1
           },
           "xcBasicHostingPlanIsolated": {
-            "SkuName": "I1",
+            "SkuName": "I1v2",
             "SkuCapacity": 1
           },
           "xcResourceIntensiveHostingPlan": {
@@ -266,7 +266,7 @@
             "SkuCapacity": 1
           },
           "xcResourceIntensiveHostingPlanIsolated": {
-            "SkuName": "I2",
+            "SkuName": "I2v2",
             "SkuCapacity": 2
           },
           "refDataSqlDatabase": {
@@ -296,7 +296,7 @@
             "SkuCapacity": 1
           },
           "xcBasicHostingPlanIsolated": {
-            "SkuName": "I2",
+            "SkuName": "I2v2",
             "SkuCapacity": 2
           },
           "xcResourceIntensiveHostingPlan": {
@@ -304,7 +304,7 @@
             "SkuCapacity": 2
           },
           "xcResourceIntensiveHostingPlanIsolated": {
-            "SkuName": "I2",
+            "SkuName": "I2v2",
             "SkuCapacity": 2
           },
           "refDataSqlDatabase": {
@@ -334,7 +334,7 @@
             "SkuCapacity": 2
           },
           "xcBasicHostingPlanIsolated": {
-            "SkuName": "I2",
+            "SkuName": "I2v2",
             "SkuCapacity": 2
           },
           "xcResourceIntensiveHostingPlan": {
@@ -342,7 +342,7 @@
             "SkuCapacity": 4
           },
           "xcResourceIntensiveHostingPlanIsolated": {
-            "SkuName": "I3",
+            "SkuName": "I3v2",
             "SkuCapacity": 2
           },
           "refDataSqlDatabase": {
@@ -372,7 +372,7 @@
             "SkuCapacity": 2
           },
           "xcBasicHostingPlanIsolated": {
-            "SkuName": "I2",
+            "SkuName": "I2v2",
             "SkuCapacity": 2
           },
           "xcResourceIntensiveHostingPlan": {
@@ -380,7 +380,7 @@
             "SkuCapacity": 4
           },
           "xcResourceIntensiveHostingPlanIsolated": {
-            "SkuName": "I3",
+            "SkuName": "I3v2",
             "SkuCapacity": 2
           },
           "refDataSqlDatabase": {
