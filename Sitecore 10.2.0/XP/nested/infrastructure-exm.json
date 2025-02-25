@@ -59,7 +59,7 @@
             "SkuCapacity": 1
           },
           "exmDdsHostingPlanIsolated": {
-            "SkuName": "I1",
+            "SkuName": "I1v2",
             "SkuCapacity": 1
           }
         },
@@ -69,7 +69,7 @@
             "SkuCapacity": 1
           },
           "exmDdsHostingPlanIsolated": {
-            "SkuName": "I1",
+            "SkuName": "I1v2",
             "SkuCapacity": 1
           }
         },
@@ -79,7 +79,7 @@
             "SkuCapacity": 1
           },
           "exmDdsHostingPlanIsolated": {
-            "SkuName": "I2",
+            "SkuName": "I2v2",
             "SkuCapacity": 1
           }
         },
@@ -89,7 +89,7 @@
             "SkuCapacity": 1
           },
           "exmDdsHostingPlanIsolated": {
-            "SkuName": "I2",
+            "SkuName": "I2v2",
             "SkuCapacity": 1
           }
         },
@@ -99,7 +99,7 @@
             "SkuCapacity": 1
           },
           "exmDdsHostingPlanIsolated": {
-            "SkuName": "I2",
+            "SkuName": "I2v2",
             "SkuCapacity": 1
           }
         },
@@ -109,7 +109,7 @@
             "SkuCapacity": 1
           },
           "exmDdsHostingPlanIsolated": {
-            "SkuName": "I2",
+            "SkuName": "I2v2",
             "SkuCapacity": 1
           }
         },
@@ -119,7 +119,7 @@
             "SkuCapacity": 1
           },
           "exmDdsHostingPlanIsolated": {
-            "SkuName": "I2",
+            "SkuName": "I2v2",
             "SkuCapacity": 1
           }
         }
